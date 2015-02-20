@@ -1,5 +1,5 @@
 MeaMod Group Free Licence (MGFL)
-Version 2.2, May 2015
+Version 2.2, February 2015
 
 Copyright (c) 2015 MeaMod Group, InterNCC
 
